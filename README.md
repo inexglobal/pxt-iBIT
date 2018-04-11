@@ -1,4 +1,6 @@
-# iBIT block package for iBIT robot kit
+# iBIT block package for pxt-microbit
+
+https://inex.co.th/shop/ibit.html
 
 powered by micro:bit
 
